@@ -61,6 +61,8 @@ a.   KVL:
 
 
 b.  KCL:
+
+
 ![WhatsApp Image 2026-03-09 at 2 14 41 PM](https://github.com/user-attachments/assets/2cdb509e-4d29-485c-b92e-181d94897502)
 
 ![WhatsApp Image 2026-03-09 at 2 15 06 PM](https://github.com/user-attachments/assets/1f659b31-41cb-492e-b3b0-9bfa7a8b80ea)
@@ -68,9 +70,11 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
 ![WhatsApp Image 2026-03-09 at 2 18 41 PM](https://github.com/user-attachments/assets/33df5165-7893-43cd-8c0f-20fb575b5adc)
  
 b.  KCL:
+
 ![WhatsApp Image 2026-03-09 at 2 20 28 PM](https://github.com/user-attachments/assets/64cad8fd-af1a-4c39-b6d1-4498140e3e42)
 
 RESULT:
